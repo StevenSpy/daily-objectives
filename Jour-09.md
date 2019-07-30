@@ -7,13 +7,13 @@
   - [x] Savoir comment sont structurés les documents javascript (http://javascript.info/structure)
   - [x] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://javascript.info/strict-mode)
 
-* [ ] Algo :
+* [x] Algo :
 
-  - [ ] Comprendre l'utilité des algorithmes de tri
-  - [ ] Découvrir le tri par insertion (Insertion Sort)
+  - [x] Comprendre l'utilité des algorithmes de tri
+  - [x] Découvrir le tri par insertion (Insertion Sort)
 
 * [ ] Découvrir le CSS :
-  - [ ] Comprendre la syntaxe de base
+  - [x] Comprendre la syntaxe de base
   - [ ] Savoir insérer du CSS de différentes manières dans une page HTML
   - [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments, IDs et le selecteur universel
   - [ ] Savoir appliquer une mise une forme sur les éléments
