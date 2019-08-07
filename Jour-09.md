@@ -13,16 +13,15 @@
   - [x] Découvrir le tri par insertion (Insertion Sort)
 
 * [ ] Découvrir le CSS :
-<<<<<<< HEAD
+      <<<<<<< HEAD
   - [x] Comprendre la syntaxe de base
   - [x] Savoir insérer du CSS de différentes manières dans une page HTML
-  - [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments, IDs et le selecteur universel
-  - [ ] Savoir appliquer une mise une forme sur les éléments
-  - [ ] Comprendre le box model
-=======
-  * [ ] Comprendre la syntaxe de base
-  * [ ] Savoir insérer du CSS de différentes manières dans une page HTML
-  * [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
-  * [ ] Savoir appliquer une mise en forme sur les éléments 
-  * [ ] Comprendre le box model
->>>>>>> b4b1241c59b2261708d8f0bd88cfbb43981787df
+  - [x] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments, IDs et le selecteur universel
+  - [x] Savoir appliquer une mise une forme sur les éléments
+  - [x] # Comprendre le box model
+  * [x] Comprendre la syntaxe de base
+  * [x] Savoir insérer du CSS de différentes manières dans une page HTML
+  * [x] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments, IDs et le selecteur universel
+  * [x] Savoir appliquer une mise en forme sur les éléments
+  * [x] Comprendre le box model
+    > > > > > > > b4b1241c59b2261708d8f0bd88cfbb43981787df
