@@ -11,9 +11,9 @@
 
   - [x] Découvrir le tri par selection (Selection Sort)
 
-- [ ] CSS :
+- [x] CSS :
   - [x] Savoir manipuler les polices en CSS
   - [x] Découvrir Google Fonts
   - [x] Savoir intégrer des polices extérieures dans le CSS
   - [x] Comprendre la notion de cascade en CSS (https://developer.mozilla.org/fr/docs/Apprendre/CSS/Introduction_à_CSS/La_cascade_et_l_héritage)
-  - [ ] Comprendre le fonctionnement de l'héritage en CSS(https://developer.mozilla.org/fr/docs/Apprendre/CSS/Introduction_à_CSS/La_cascade_et_l_héritage)
+  - [x] Comprendre le fonctionnement de l'héritage en CSS(https://developer.mozilla.org/fr/docs/Apprendre/CSS/Introduction_à_CSS/La_cascade_et_l_héritage)
