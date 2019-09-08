@@ -5,7 +5,12 @@
 - [x] Javascript :
 
   - [x] Comprendre le fonctionnement des interactions dans le navigateur avec l'`alert`, le `prompt` et le `confirm` (https://javascript.info/alert-prompt-confirm)
+
     - [x] Faire l'exercice
+
+      ### Exercice :
+
+      `let name = prompt("Quel est votre nom ?"); alert(name);`
 
 - [x] Algo :
 
