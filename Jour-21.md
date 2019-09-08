@@ -15,7 +15,7 @@
         - [x] Comprendre la copie par référence
         - [x] Savoir copier un objet (cloner)
 
-        ###Exercice 1
+        ### Exercice 1
 
         ```
         let user = {};
@@ -25,7 +25,7 @@
         delete user.name;
         ```
 
-        ###Exercice 2
+        ### Exercice 2
 
         ```
         let monObjet = {};
@@ -40,11 +40,11 @@
 
         ```
 
-        ###Exercice 3
+        ### Exercice 3
 
         Oui nous pouvons changer ou bien même ajouter du contenu dans un "const objet", cependant on ne peut pas changer le type de l'objet par exemple on ne peut pas faire ceci : ` const monObjet = {}; monObjet = "Yolo";`
 
-        ###Exercice 4
+        ### Exercice 4
 
         ```
         let salaries = {
