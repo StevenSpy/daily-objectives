@@ -53,10 +53,10 @@
 
     `let message = (login == "Employee") ? "Hello" : (login == "Director") ? "Grettings" : (login == "") ? "No login" : "";`
 
-* [ ] Algo :
+* [x] Algo :
 
-  - [ ] Ecrire en pseudocode le Insertion Sort (création pure)
-  - [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+  - [x] Ecrire en pseudocode le Insertion Sort (création pure)
+  - [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 * [x] CSS :
   - [x] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
