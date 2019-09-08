@@ -7,6 +7,18 @@
   - [x] Découvrir les 7 types de données en Javascript et comprendre leurs différences (http://javascript.info/types)
   - [x] Faire l'exercice
 
+    ### Exercice :
+
+    ```
+
+    let name =  "Ilya";
+
+    alert( `hello ${1}` ); // hello 1
+    alert( `hello ${"name"}` ); // hello name
+    alert( `hello ${name}` ); // hello Ilya
+
+    ```
+
 - [x] Algo :
 
   - [x] Découvrir le tri par selection (Selection Sort)
