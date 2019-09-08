@@ -5,10 +5,21 @@
 - [x] Javascript :
 
   - [x] Comprendre la comparaison en Javascript (https://javascript.info/comparison) :
+
     - [x] Comprendre comment sont comparés les strings ?
     - [x] Comprendre quelle est la différence entre `==` et `===` ?
     - [x] Comprendre comment sont comparées des valeurs de types différents ?
     - [x] Comprendre le mécanisme de comparaison avec `null` et `undefined`
+
+      ### Exercice :
+
+      1. True;
+      2. False;
+      3. True;
+      4. True;
+      5. False;
+      6. False;
+      7. False;
 
 - [x] Algo (Révision) :
 
