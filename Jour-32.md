@@ -4,18 +4,20 @@
 
 ### Javascript :
 
-  * [ ] Comprendre et maitriser le `spread operator` et les `rest parameters`
-    (http://javascript.info/rest-parameters-spread-operator)
+- [ ] Comprendre et maitriser le `spread operator` et les `rest parameters`
+      (http://javascript.info/rest-parameters-spread-operator)
 
-### Vue JS : 
+### Vue JS :
 
-  * [ ] Comprendre ce qu'est une instance de Vue JS (https://vuejs.org/v2/guide/instance.html)
-    * PS : Les cycles de vie seront vus plus tard, mais possibilités de commencer la découverte
+- [x] Comprendre ce qu'est une instance de Vue JS (https://vuejs.org/v2/guide/instance.html)
 
-  * [ ] Comprendre le fonctionnement et la syntaxe de template (https://vuejs.org/v2/guide/syntax.html)
-    * [ ] Les interpolations
-    * [ ] Les directives
+  - PS : Les cycles de vie seront vus plus tard, mais possibilités de commencer la découverte
 
-  * [ ] Comprendre l'intérêt des `computed properties` et comprendre la
+- [x] Comprendre le fonctionnement et la syntaxe de template (https://vuejs.org/v2/guide/syntax.html)
+
+  - [x] Les interpolations
+  - [x] Les directives
+
+- [ ] Comprendre l'intérêt des `computed properties` et comprendre la
       différence avec la `data` de base
       (https://vuejs.org/v2/guide/computed.html)
