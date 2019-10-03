@@ -25,4 +25,4 @@
   - [x] Select
   - [x] Modificateurs
 
-- [ ] Découvrir les composants dans Vue JS (https://fr.vuejs.org/v2/guide/components.html)
+- [x] Découvrir les composants dans Vue JS (https://fr.vuejs.org/v2/guide/components.html)
