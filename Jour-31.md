@@ -62,7 +62,7 @@
 
 - [ ] Comprendre la différence entre un framework et une librairie
 
-- [ ] Découvrir Vue JS (https://fr.vuejs.org/v2/guide/)
+- [x] Découvrir Vue JS (https://fr.vuejs.org/v2/guide/)
 
-- [ ] Installer `Vue CLI` (https://cli.vuejs.org/)
-- [ ] Créer ses premiers projets (répétitions créations / suppression, au moins une dizaine de fois)
+- [x] Installer `Vue CLI` (https://cli.vuejs.org/)
+- [x] Créer ses premiers projets (répétitions créations / suppression, au moins une dizaine de fois)
