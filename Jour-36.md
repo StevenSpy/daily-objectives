@@ -13,12 +13,3 @@
       (https://fr.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html)
 
 - [ ] Créer une application Vue JS en consommant l'`API` de citations de `Kaamelot` (hthttps://kaamelott.chaudie.re/api/all/personnage/Percevaltps://kaamelott.chaudie.re/)
-
-  - Possibilité de consommer une `API` de votre choix
-
-- Savoir deployer une application Vue JS sur Github Pages
-  (https://cli.vuejs.org/guide/deployment.html#github-pages)
-
-- [ ] Découvrir `Vuetify` (https://vuetifyjs.com/en/)
-
-- [ ] Découvrir `Awesome Vue.js` (https://awesome-vue.js.org/)
