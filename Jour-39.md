@@ -6,7 +6,7 @@
 
 - [x] Comprendre le fonctionnement des `callbacks` (https://javascript.info/callbacks)
 - [x] Comprendre le fonctionnement des `promises` (https://javascript.info/promise-basics)
-- [ ] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
+- [x] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
 
 ### SQL :
 
@@ -18,7 +18,7 @@
 - [x] Création/suppression de comptes utilisateurs
 - [x] Création de bases de données (https://youtu.be/DvDOU-v822w)
 - [x] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
-- [ ] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
+- [x] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
 
 ### Node.JS :
 
